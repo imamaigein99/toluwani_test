@@ -1,0 +1,16 @@
+{
+  "clients": {
+      "client1": {
+          "client_id": "f5k43qin8k",
+          "client_secret": "PdNd8FUWiqVvN9pdEf9SYw",
+          "tag": "861"
+      },
+      "client2": {
+          "client_id": "another_client_id",
+          "client_secret": "another_client_secret",
+          "tag": "another_tag"
+      }
+  },
+  "ip": "http://192.168.2.217:43000",
+  "log_file": "logs.log"
+}
